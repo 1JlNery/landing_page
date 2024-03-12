@@ -1,5 +1,4 @@
-#landing page
+# Landing Page de Cadastro para Empresa Fictícia
 
--criar um landing page de cadastro para uma empresa fictícia 
-
--criar a landing page usando o CSS e o Html
+### Descrição do Projeto
+Este projeto consiste em uma landing page de cadastro para uma empresa fictícia. A página foi desenvolvida utilizando HTML e CSS para criar uma interface simples e amigável para os usuários se cadastrarem na empresa.
